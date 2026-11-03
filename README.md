@@ -20,7 +20,7 @@ Acompanhar o desempenho comercial e responder perguntas como:
 | Mapa | Receita por Região |
 | Segmentações | Período, Vendedor e Categoria |
 
-![Painel de vendas](dashboard.png)
+![Painel de vendas]()
 
 ## 🗂️ Modelo de dados
 Modelo em estrela, com a tabela fato **Vendas** ligada às dimensões **Produtos**, **Clientes**, **Vendedores** e **Calendário**.
